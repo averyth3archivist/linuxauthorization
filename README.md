@@ -13,7 +13,7 @@ First, it is necessary to examine the existing file and directory permissions to
 ![alt text][figure1]
 
 [figure1]: https://github.com/averyth3archivist/linuxauthorization/blob/30e8698a45ddd086d7f6819894e896590617726a/LinuxAuthorization_Figure1.png "Figure 1"
-*Figure 1. - Demonstration of the ls -la Linux command.*
+***Figure 1.** - Demonstration of the ls -la Linux command.*
 
 
 ### Describe the permissions string
@@ -32,7 +32,7 @@ Provided that the organization does not allow other to have write access to any 
 
 [figure2]: https://github.com/averyth3archivist/linuxauthorization/blob/30e8698a45ddd086d7f6819894e896590617726a/LinuxAuthorization_Figure2.png "Figure 2"
 
-*Figure 2. - Demonstration of the use of the chmod command to change the write permissions on the "project_k.txt" file for the other owner type and the ls -la command to display the output.*
+***Figure 2.** - Demonstration of the use of the chmod command to change the write permissions on the "project_k.txt" file for the other owner type and the ls -la command to display the output.*
 
 ### Change file permissions on a hidden file
 
@@ -42,7 +42,7 @@ The file .project_x.txt is an archived, hidden file, only available to be read b
 
 [figure3]: https://github.com/averyth3archivist/linuxauthorization/blob/30e8698a45ddd086d7f6819894e896590617726a/LinuxAuthorization_Figure3.png "Figure 3"
 
-*Figure 3. - Demonstration of modifying permissions on the hidden file (.project_x.txt) to read-only for the user and group owner types.*
+***Figure 3.** - Demonstration of modifying permissions on the hidden file (.project_x.txt) to read-only for the user and group owner types.*
 
 ### Change directory permissions
 
@@ -52,7 +52,7 @@ Only researcher2 or the user owner type should have access to the drafts directo
 
 [figure4]: https://github.com/averyth3archivist/linuxauthorization/blob/30e8698a45ddd086d7f6819894e896590617726a/LinuxAuthorization_Figure4.png "Figure 4"
 
-*Figure 4. Demonstration of modifying the execute permissions for the group owner type to ensure that only the user owner type has access.*
+***Figure 4.** Demonstration of modifying the execute permissions for the group owner type to ensure that only the user owner type has access.*
 
 ### Summary
 

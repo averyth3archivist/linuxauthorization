@@ -3,7 +3,7 @@
 
 ### Project Description
 
-As a security professional at a large organization, I am tasked with ensuring members of the research team are authorized with the appropriate permissions on the system. In this project, I examined the existing permissions and made modifications if they did not match the authorization that should be provided, using Linux commands.
+As a security professional at a fictitious large organization, I am tasked with ensuring members of the research team are authorized with the appropriate permissions on the system. In this project, I examined the existing permissions and made modifications if they did not match the authorization that should be provided, using Linux commands.
 
 
 ### Check file and directory details
